@@ -1,2 +1,2 @@
-# ChickenCV-BE
-BE source
+
+Finstro Training
